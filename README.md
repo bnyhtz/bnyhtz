@@ -14,7 +14,7 @@
 
 🎵 You can find my music over at ✨ https://7mxrch.com/ ✨
 
-🔭 I’m currently working on an **Mixed Reality Experience 🚀🌌** in **Unreal Engine 5.3**
+🔭 I’m currently working on an **Infinite Runner Game** in **Unity** and **C#**
 
 🌱 I’m currently learning **C++⌨️** & **Unreal Engine🖥️**
 
