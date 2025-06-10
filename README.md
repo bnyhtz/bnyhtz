@@ -10,13 +10,13 @@
 
 ### I'm a Unreal Engine Gameplay Developer, Game Development Student & a Music Artist.
 
-📖 You can find my portfolio over at ✨ https://akari.plus/ ✨
+📖 You can find my portfolio over at ✨ https://akari.gg/ ✨
 
 🎵 You can find my music over at ✨ https://7mxrch.com/ ✨
 
 🔭 I’m currently working on an **Infinite Runner Game** in **Unity** and **C#**
 
-🌱 I’m currently learning **C++⌨️** & **Unreal Engine🖥️**
+🌱 I’m currently learning **C#⌨️** & **Unity Engine🖥️**
 
 
 
