@@ -8,7 +8,7 @@
 ## I'm Akari *(they/she)* ━ nice to meet you! .‿.
 
 
-### I'm a Unreal Engine Gameplay Developer, Game Development Student & a Music Artist.
+### I'm a Gameplay Developer in Unity & Unreal Engine, Game Development Student & a Music Artist.
 
 📖 You can find my portfolio over at ✨ https://akari.gg/ ✨
 
